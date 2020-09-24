@@ -1,5 +1,5 @@
 # CLAPSY
-It is always a pleasure to visit one of my first projects (Yes, for me at that time, It's like a Real Project :p)
+It is always a pleasure to visit one of my first projects (Yes, for me at that time, It was like a Real Project :p)
 CLAPSY is an interactive CLI game build by Python
 
 # Knowledge used there:
